@@ -25,6 +25,7 @@ Some things for the near future 🔭
 - Increase knowledge, always learning 🤓
 - Get better with Google Cloud Platform at scale
 - Get better at building/maintaining ETL Data pipelines and microservices ( Python Flask )
+- Get better with K8s
 - Start a youtube channel tech/music based 🙈
 
 
