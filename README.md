@@ -1,8 +1,6 @@
 ### Welcome to my GitHub 👋
 
-Hi! My name is Emanuel and I am a hard-working Software Engineer with 6+ years of experience developing software, 2 years of experience as a scrum master using SAFe environment and junior trainer. I've worked mostly with Python and Java on microservices and ETL pipelines managing what we call Big Data in the Cloud.
-
-I've held several trainings on Python, Java and Spring and I taught some courses in college as a teaching assistant. Found a passion in teaching and sharing what I know with others.
+Hi! My name is Emanuel and I am a hard-working Software Engineer with 6+ years of experience developing software, 2 years of experience as a scrum master using SAFe environment and junior trainer. I've worked mostly with Python and Java on microservices and ETL pipelines managing Big Data processes in the Cloud.
 
 At the moment, what I like the most as technology is working with Google Cloud Platform, AI, K8s and Python 🐍 
 
