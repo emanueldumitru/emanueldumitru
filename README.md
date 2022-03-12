@@ -15,17 +15,4 @@ Some things about me ℹ️
 - Here is my [Personal Website](https://emanueldumitru.github.io/) (Work ongoing)
 - Also my [Resume](https://emanueldumitru.github.io/resume.html)
 - And some of my [Skills](https://emanueldumitru.github.io/index.html#skills)
-- Beside software engineering, I like to workout and swim to stay fit
-- Play guitar because is fun
-- Travel the world well deserved 🌎
-
-
-Some things for the near future 🔭
-
-- Increase knowledge, always learning 🤓
-- Get better with Google Cloud Platform at scale
-- Get better at building/maintaining ETL Data pipelines and microservices ( Python Flask )
-- Get better with K8s
-- Start a youtube channel tech/music based 🙈
-
 
