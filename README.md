@@ -14,7 +14,7 @@ Some things about me ℹ️
 - Also my [Resume](https://emanueldumitru.github.io/resume.html)
 - And some of my [Skills](https://emanueldumitru.github.io/index.html#skills)
 
-HackerRank certificates
+HackerRank certificates 📰
 
 - [Certificates](https://www.hackerrank.com/certificates/1edb7fbcfd6b?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)
 
