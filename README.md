@@ -8,7 +8,7 @@ I like to solve problems and make an impact with my work. 🛠
 
 Some things about me ℹ️
 
-- Software Data Engineer
+- Software Engineer
 - Here is my [Personal Website](https://emanueldumitru.github.io/)
 - Also my [Resume](https://emanueldumitru.github.io/resume.html) (not up to date, linkedin is the most updated)
 - And some of my [Skills](https://emanueldumitru.github.io/index.html#skills)
