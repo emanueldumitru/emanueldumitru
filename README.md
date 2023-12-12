@@ -6,16 +6,3 @@ Throughout my career, I have primarily worked with Python and Java, specializing
 Presently, I find great fulfillment in harnessing the power of Python 🐍 within the cloud environment, crafting dynamic and scalable solutions. Looking ahead, I am open to transitioning towards product management, aspiring to delve deeper into the business aspects of projects while leveraging my technical and scrum agility background for a seamless role transition.
 
 My passion lies in problem-solving and making a meaningful impact through collaborative efforts with my team. 🛠
-
-
-Some things about me ℹ️
-
-- Software Engineer
-- Here is my [Personal Website](https://emanueldumitru.github.io/)
-- Also my [Resume](https://emanueldumitru.github.io/resume.html) (not up to date, linkedin is the most updated)
-- And some of my [Skills](https://emanueldumitru.github.io/index.html#skills)
-
-HackerRank certificates 📰
-
-- [Certificates](https://www.hackerrank.com/certificates/1edb7fbcfd6b?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)
-
