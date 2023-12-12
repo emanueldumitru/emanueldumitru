@@ -1,9 +1,11 @@
 ### Welcome to my GitHub 👋
-Hi! My name is Emanuel and I am a hard-working Software Engineer with 7+ years of experience developing software from early stages to production, 2 years of experience as a scrum master using SAFe environment to manage agile teams and junior trainer (python) to share with others my skills. I've worked mostly with Python and Java on microservices and ETL pipelines managing Big Data processes in the Cloud. I've built in the past complex dynamic data pipelines, data applications, automation tools and applications and also contributed to the backend and frontend of different web applications. 
+I am Emanuel, a diligent Software Engineer with over 7 years of experience in the end-to-end software development life cycle. In addition to my technical expertise, I bring 2 years of hands-on experience as a Scrum Master, adept at leading agile teams within the SAFe (Scaled Agile Framework) environment. I am also passionate about sharing knowledge, serving as a junior trainer specializing in Python.
 
-At the moment, what I like the most as technology is working with Python 🐍 in cloud developing dynamic scalable solutions. I am looking for the near future to get to the product management and get more involved into the business part of a project rather than the technical part.
+Throughout my career, I have primarily worked with Python and Java, specializing in microservices and ETL pipelines for managing Big Data processes in the Cloud. My accomplishments include the construction of intricate dynamic data pipelines, development of data applications, automation tools, and contributions to both backend and frontend aspects of various web applications.
 
-I like to solve problems and make an impact with my work. 🛠
+Presently, I find great fulfillment in harnessing the power of Python 🐍 within the cloud environment, crafting dynamic and scalable solutions. Looking ahead, I am open to transitioning towards product management, aspiring to delve deeper into the business aspects of projects while leveraging my technical and scrum agility background for a seamless role transition.
+
+My passion lies in problem-solving and making a meaningful impact through collaborative efforts with my team. 🛠
 
 
 Some things about me ℹ️
