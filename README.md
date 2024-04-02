@@ -1,8 +1,2 @@
 ### Welcome to my GitHub 👋
-I am Emanuel, a diligent Software Engineer with over 7 years of experience in the end-to-end software development life cycle. In addition to my technical expertise, I bring 2 years of hands-on experience as a Scrum Master, adept at leading agile teams within the SAFe (Scaled Agile Framework) environment. I am also passionate about sharing knowledge, serving as a junior trainer specializing in Python.
-
-Throughout my career, I have primarily worked with Python and Java, specializing in microservices and ETL pipelines for managing Big Data processes in the Cloud. My accomplishments include the construction of intricate dynamic data pipelines, development of data applications, automation tools, and contributions to both backend and frontend aspects of various web applications.
-
-Presently, I find great fulfillment in harnessing the power of Python 🐍 within the cloud environment, crafting dynamic and scalable solutions.
-
-My passion lies in problem-solving and making a meaningful impact through collaborative efforts with my team. 🛠
+With 7+ years of software engineering experience, including 2 years as a Scrum Master in SAFe, I specialize in Python and Java for microservices and ETL pipelines in the Cloud, while also serving as a junior Python trainer, driven by collaborative problem-solving for impactful solutions.
