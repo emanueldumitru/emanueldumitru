@@ -1,2 +1,4 @@
 ### Welcome to my GitHub 👋
-With over 7 years of experience in software engineering, I specialize in Java Spring Boot development, Python scripting, automation, and cloud-based ETL pipelines. I hold certifications as a SAFe Advanced Scrum Master and Product Owner/Product Manager. I have successfully conducted training sessions on Python and Java Spring Boot, sharing my extensive expertise in these areas. My professional focus is on leveraging collaborative problem-solving to deliver impactful and innovative solutions.
+I specialize in Java Spring Boot Microservices, Python Data Engineering, scripting, automation, and cloud-based ETL pipelines, hold SAFe certifications, conduct training sessions, and focus on collaborative problem-solving for innovative solutions.
+
+Website: https://emanueldumitru.github.io/
