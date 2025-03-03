@@ -18,6 +18,4 @@ My expertise spans:
 
 💡 Always exploring new technologies to enhance efficiency and drive innovation.
 
-📌 GitHub: github.com/emanueldumitru
-
 🤝 Website: https://emanueldumitru.github.io/
