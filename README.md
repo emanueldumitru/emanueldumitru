@@ -8,9 +8,9 @@ My expertise spans:
 
 ✅ ETL & Data Pipelines – Designing and optimizing workflows for seamless data ingestion and transformation.
 
-✅ Cloud & Infrastructure – Building containerized, cloud-native solutions using Docker, Kubernetes, and AWS/GCP cloud technologies, optimizing performance, scalability, and deployment efficiency.
+✅ Batch & Streaming Data Processing – Developing robust batch and real-time data processing solutions.
 
-✅ Batch & Streaming Data Processing – Developing robust batch and real-time data processing solutions
+✅ Cloud & Infrastructure – Building containerized, cloud-native solutions using Docker, Kubernetes, and AWS/GCP cloud technologies, optimizing performance, scalability, and deployment efficiency.
 
 ✅ Microservices & Distributed Systems – Designing and implementing scalable microservices architectures with Java and Spring Boot, ensuring resilience, efficiency, and seamless integration in distributed environments.
 
