@@ -2,7 +2,7 @@
 
 🚀 Data Engineer | Software Engineer | Freelancer
 
-I specialize in Python data engineering, building ETL pipelines, automating workflows, and designing scalable cloud solutions. With expertise in Java, Spring Boot, and microservices, I create high-performance systems for large-scale data processing.
+I specialize in Python data engineering, building ETL pipelines, automating workflows, and designing scalable cloud solutions.
 
 My expertise spans:
 
