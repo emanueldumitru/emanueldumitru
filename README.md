@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-🚀 Data Engineer | Software Engineer | Freelancer
+🚀 Senior Software Engineer
 
 I specialize in Python data engineering, building ETL pipelines, automating workflows, and designing scalable cloud solutions.
 
