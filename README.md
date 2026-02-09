@@ -1,5 +1,5 @@
 ### Welcome to my GitHub 👋
 
-With 10 years of software engineering experience, I build scalable software, automation, and microservices using Python and Java. I specialize in data engineering, ETL pipelines, and cloud native architectures for high performance, resilient systems.
+For over 10 years, I’ve designed and scaled systems that process millions of events and power real-time decision-making at scale. My focus is data engineering, cloud-native architectures, and AI agents that transform complexity into a competitive edge.
 
 🤝 Website: https://emanueldumitru.com
